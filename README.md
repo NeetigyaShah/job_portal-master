@@ -2,6 +2,8 @@
 
 Welcome to the Job Portal Frontend React Project! This project provides a user-friendly interface for job seekers to find jobs and employers to post job openings.
 
+The project is also deployed on vercel : https://job-portal-master.vercel.app/
+
 ## Getting Started
 
 1. follow the instructions to set up and run the backend locally.
