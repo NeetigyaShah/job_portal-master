@@ -4,7 +4,7 @@ Welcome to the Job Portal Frontend React Project! This project provides a user-f
 
 ## Getting Started
 
-1. Fork the [Job Portal Backend Spring Boot Project](https://github.com/bm9avan/job-portal-backend) and follow the instructions to set up and run the backend locally.
+1. follow the instructions to set up and run the backend locally.
 
 2. Clone this repository to your local machine:
 
@@ -51,8 +51,3 @@ The frontend project is organized as follows:
 - React
 - React Router DOM
 
-## Contribution
-
-Contributions to this project are welcome! If you encounter any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-For more details on the project, check out the [live demo](https://job-portal-bm9avan.vercel.app)!
